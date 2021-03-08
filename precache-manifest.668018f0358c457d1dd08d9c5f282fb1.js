@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/browserconfig.xml"
   },
   {
-    "revision": "ef4d938f5cd25945510f",
+    "revision": "46fe38fde35592d27ed4",
     "url": "/css/app.b7d48b75.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/alpaca.5cc78af1.png"
   },
   {
-    "revision": "132496e91a7ffc436d60200888f49b34",
-    "url": "/img/bigAkita.132496e9.svg"
+    "revision": "dcbced7073cc9f6966020072687545f0",
+    "url": "/img/bigAkita.dcbced70.svg"
   },
   {
     "revision": "8756939144def62f9ef3fa58f7459331",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo512.350b01f0.png"
   },
   {
-    "revision": "b5f6808b7b870ce1d7519e8232fb9acd",
+    "revision": "fb14fb72ef6bf7e81b90188c1758f5af",
     "url": "/index.html"
   },
   {
-    "revision": "ef4d938f5cd25945510f",
-    "url": "/js/app.35db140c.js"
+    "revision": "46fe38fde35592d27ed4",
+    "url": "/js/app.6fd54d2c.js"
   },
   {
     "revision": "da4a9610f493c77be3a5",
